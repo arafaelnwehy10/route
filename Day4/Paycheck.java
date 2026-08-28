@@ -20,7 +20,7 @@ public class Paycheck {
         Scanner scanner = new Scanner(System.in);
         System.out.println("enter your salary ");
         double salary = scanner.nextDouble();
-        return salary;
+        return salary ;
     }
 
    static boolean isqualified(double salary,double credit_score) {
