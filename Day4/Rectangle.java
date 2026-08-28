@@ -1,5 +1,4 @@
 package Day4;
-
  public   class Rectangle {
    private double lenght;
     private double widht;

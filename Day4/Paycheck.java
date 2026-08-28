@@ -26,6 +26,7 @@ public class Paycheck {
    static boolean isqualified(double salary,double credit_score) {
         if (salary >= req_sal && credit_score >= req_credit_score) {
             System.out.println("congrats");
+
             return true;
         }
         else {

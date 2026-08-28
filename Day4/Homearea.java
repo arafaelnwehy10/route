@@ -1,5 +1,4 @@
 package Day4;
-
 public class Homearea {
     static void main() {
         Rectangle r1=new Rectangle();
