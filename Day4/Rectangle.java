@@ -12,6 +12,7 @@ package Day4;
 //         widht=8;
          setWidht(widht);
          setLenght(lenght);
+
      }
    public void setLenght(double lenght){
         this.lenght=lenght;
