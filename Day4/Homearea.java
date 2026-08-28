@@ -4,8 +4,8 @@ public class Homearea {
     static void main() {
         Rectangle r1=new Rectangle();
 
-        r1.setLenght(20);
-        r1.setWidht(10);
+        r1.setLenght(20 );
+        r1.setWidht(10 );
         double area_1=r1.calculate_area();
        System.out.println("area_1  = "+area_1);
        Rectangle r2=new Rectangle(15,45);

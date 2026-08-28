@@ -7,7 +7,7 @@ package Day4;
         System.out.println("hi mohamed");
     }
      public Rectangle(double lenght,double widht){
-         System.out.println("hi arafa");
+         System.out.println("hi arafa ");
 //         lenght=8;
 //         widht=8;
          setWidht(widht);
